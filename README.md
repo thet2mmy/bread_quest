@@ -8,7 +8,7 @@ The structure should look like this:
 ```
   bread_quest/
     |
-    \> ./a.out
+    \> a.out
     \> game/
          |
          \> title
